@@ -1,0 +1,5 @@
+﻿Build started at 6:31 PM...
+1>------ Build started: Project: ChatBotApp2, Configuration: Debug Any CPU ------
+1>  ChatBotApp2 -> C:\Users\RC_Student_lab\source\repos\ChatBotApp2\bin\Debug\ChatBotApp2.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 6:31 PM and took 00.262 seconds ==========
